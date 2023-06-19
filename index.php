@@ -8,39 +8,33 @@
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
                 <div class="col-xl-6 col-lg-8">
-                    <h1>O poder de soluções digitais com a Maker</h1>
-                    <h2>Somos uma equipe de profissionais de software e marketing digital<span>.</span></h2>
+                    <h1>O Poder de Soluções Digitais com a Maker</h1>
+                    <h2>Web Development Agency<span>.</span></h2>
                 </div>
             </div>
             <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
-                        <i class="bi bi-pc-display-horizontal"></i>
-                        <h3><a href="">Websites</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
-                        <i class="bi bi-phone"></i>
-                        <h3><a href="">Web App</a></h3>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-4">
-                    <div class="icon-box">
                         <i class="bi bi-cart3"></i>
-                        <h3><a href="">E-commerce</a></h3>
+                        <h3>E-commerce</h3>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
-                        <i class="bi bi-gear"></i>
-                        <h3><a href="">Sistemas</a></h3>
+                        <i class="bi bi-pc-display-horizontal"></i>
+                        <h3>Website</h3>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4">
                     <div class="icon-box">
                         <i class="bi bi-lightbulb"></i>
-                        <h3><a href="">Marketing</a></h3>
+                        <h3>Marketing</h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4">
+                    <div class="icon-box">
+                        <i class="bi bi-gear"></i>
+                        <h3>Suporte</h3>
                     </div>
                 </div>
             </div>
@@ -54,22 +48,21 @@
             <div class="container" data-aos="fade-up">
                 <div class="row">
                     <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-                        <img src="assets/img/about.png" class="img-fluid" alt="">
+                        <img src="assets/img/about.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-                        <h3>Somos uma startup especializada em produtos web, desenvolvemos e criamos soluções para o seu negócio</h3>
+                        <h3>Somos uma agência de desenvolvimento web para e-commerce, desenvolvemos e criamos soluções para o seu negócio</h3>
                         <p class="fst-italic">
                             Conhecemos os nossos clientes, compreendemos suas metas, valores, objetivos e ambições para
                             o seu negócio, assim conseguimos atender e superar suas expectativas.
                         </p>
                         <ul>
-                            <li><i class="ri-check-double-line"></i> Missão: Desenvolver produtos com base tecnológica, tendo sempre o diferencial da qualidade.</li>
-                            <li><i class="ri-check-double-line"></i> Visão: Ser referência na prestação de serviços ligados às novas tecnologias web.</li>
-                            <li><i class="ri-check-double-line"></i> Valores: Inovação tecnológica, criatividade, responsabilidade social, espírito inovador, qualidade, flexibilidade, ética, lealdade e excelência.</li>
+                            <li><i class="ri-check-double-line"></i> Missão: Desenvolver produtos com base tecnológica, tendo sempre o diferencial da qualidade e geração de valor.</li>
+                            <li><i class="ri-check-double-line"></i> Visão: Ser referência na prestação de serviços, buscando constantemente superar expectativas.</li>
+                            <li><i class="ri-check-double-line"></i> Valores: Excelência, inovação tecnológica, parceria, integridade, e orientação para resultados.</li>
                         </ul>
                         <p>
-                            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+                            Esses são os pilares que sustentam a Maker, moldando nossa cultura e nos guiando em cada projeto que realizamos.
                         </p>
                     </div>
                 </div>
@@ -138,49 +131,49 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-pc-display-horizontal"></i></div>
-                            <h4><a href="">Websites</a></h4>
-                            <p>Desenvolvemos sites, landing pages e blogs, tudo de forma personalizada ao seu gosto.</p>
+                            <div class="icon"><i class="bi bi-cart3"></i></div>
+                            <h4>E-commerce</h4>
+                            <p>Desenvolvemos a sua loja virtual, automatizando as suas vendas online.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-phone"></i></div>
-                            <h4><a href="">Web App</a></h4>
-                            <p>Design responsivo, com foco em mobile first e usabilidade.</p>
+                            <div class="icon"><i class="bi bi-pc-display-horizontal"></i></div>
+                            <h4>Website</h4>
+                            <p>Desenvolvemos sites, landing pages e blogs, tudo de forma personalizada.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-cart3"></i></div>
-                            <h4><a href="">E-commerce</a></h4>
-                            <p>Desenvolvemos a sua loja virtual, automatizando as suas vendas online.</p>
+                            <div class="icon"><i class="bi bi-phone"></i></div>
+                            <h4>Web App</h4>
+                            <p>Design responsivo, com foco em mobile first e usabilidade.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-gear"></i></div>
-                            <h4><a href="">Sistemas</a></h4>
-                            <p>Precisa de um sistema personalizado para sua empresa? Conte com a gente!</p>
+                            <div class="icon"><i class="bi bi-lightbulb"></i></div>
+                            <h4>Design</h4>
+                            <p>Criamos e desenvolvemos a sua marca, gerando presença digital com foco em vendas.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-lightbulb"></i></div>
-                            <h4><a href="">Marketing Digital</a></h4>
-                            <p>Produzimos banners, cards, logomarcas, convites, cartões personalizados e muito mais.</p>
+                            <div class="icon"><i class="bi bi-instagram"></i></div>
+                            <h4>Social Media</h4>
+                            <p>Gerenciamos e promovemos as suas redes sociais, gerando mais tráfego e leads para o seu negócio.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
                         <div class="icon-box">
-                            <div class="icon"><i class="bi bi-wordpress"></i></div>
-                            <h4><a href="">Manutenção</a></h4>
-                            <p>Realizamos manutenção em sistemas PHP, Laravel e WordPress.</p>
+                            <div class="icon"><i class="bi bi-gear"></i></div>
+                            <h4>Suporte</h4>
+                            <p>Prestamos suporte e consultoria em sistemas e-commerce em PHP, Laravel ou WordPress.</p>
                         </div>
                     </div>
                 </div>
