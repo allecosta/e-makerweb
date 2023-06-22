@@ -32,7 +32,7 @@
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav>
-        <a href="" class="get-started-btn scrollto">
+        <a href="https://api.whatsapp.com/send?phone=5579998994170" class="get-started-btn scrollto" target="_blank">
             <img src="assets/img/whatsapp.png" alt="whatsapp">
         </a>
     </div>

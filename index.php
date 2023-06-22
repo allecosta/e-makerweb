@@ -7,7 +7,7 @@
     <section id="hero" class="d-flex align-items-center justify-content-center">
         <div class="container" data-aos="fade-up">
             <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-                <div class="col-xl-6 col-lg-8">
+                <div class="col-md-6 col-xl-8 col-lg-8">
                     <h1>O Poder de Soluções Digitais com a Maker</h1>
                     <h2>Web Development Agency<span>.</span></h2>
                 </div>
@@ -190,7 +190,7 @@
                         Desenvolvemos soluções em tecnologia que facilitam e agilizam suas operações,
                         ampliando as suas vendas, fortalecendo assim o seu negócio. 
                     </p>
-                    <a class="cta-btn" href="#">Atendimento Whatsapp</a>
+                    <a class="cta-btn" href="https://api.whatsapp.com/send?phone=5579998994170" target="_blank">Atendimento WhatsApp</a>
                 </div>
             </div>
         </section>
@@ -400,10 +400,9 @@
                                 <h4>Head Developer</h4>
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Vivemos em um mundo a cada dia mais digital, onde precisamos estarmos conectados 
-                                    para desenvolver nossas tarefas diárias. Sentimos isso como uma necessidade real, 
-                                    assim nos colocamos a disposição da sociedade para, através da tecnologia, realizar 
-                                    os seus sonhos.
+                                    Estamos aqui para oferecer soluções inovadoras e eficientes, utilizando o poder da 
+                                    tecnologia para impulsionar o crescimento do seu negócio. Juntos, podemos transformar
+                                    problemas em oportunidades e conquistar resultados extraordinários. 
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
                             </div>
@@ -578,7 +577,7 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Tel:</h4>
-                                <p>(79) 9 9899 - 4170</p>
+                                <p>+55 79 99899-4170</p>
                             </div>
                         </div>
                     </div>
