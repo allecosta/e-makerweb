@@ -52,19 +52,17 @@
     </div> -->
     <div class="container">
         <div class="footer-top">
-            <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            <div class="social-links mt-3 d-flex justify-content-center">
+                <a href="https://www.instagram.com/makersistemasweb/" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.facebook.com/makersistemasweb" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin" target="_blank"></i></a>
             </div>
         </div>
         <div class="copyright">
             &copy; Copyright - Todos os direitos reservados
         </div>
         <div class="credits">
-            Desenvolvido por <a href="">Maker Sistemas Web</a>
+            Desenvolvido por <a href="#hero">Maker Sistemas Web</a>
         </div>
     </div>
 </footer>
